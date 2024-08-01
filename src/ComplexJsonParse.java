@@ -45,6 +45,7 @@ public class ComplexJsonParse {
 		}
 		
 		System.out.println(sum);
+		System.out.println(sum);
 		
 		Assert.assertEquals(totalAmount, sum);
 	}
