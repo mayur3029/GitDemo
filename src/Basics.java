@@ -46,6 +46,7 @@ public class Basics {
 		System.out.println(actualAddress);
 
 		Assert.assertEquals(actualAddress, newAddress);
+		System.out.println("End of line");
 	}
 
 }
