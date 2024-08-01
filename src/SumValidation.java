@@ -21,7 +21,7 @@ public class SumValidation {
 		}
 		
 		System.out.println(sum);
-		
+		System.out.println(sum);
 		Assert.assertEquals(totalAmount, sum);
 		
 	}
